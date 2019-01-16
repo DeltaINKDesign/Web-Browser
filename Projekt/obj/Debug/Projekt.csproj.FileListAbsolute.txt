@@ -1,0 +1,20 @@
+c:\users\imichal4\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+c:\users\imichal4\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+c:\users\imichal4\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+c:\users\imichal4\source\repos\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+c:\users\imichal4\source\repos\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+c:\users\imichal4\source\repos\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+c:\users\imichal4\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+c:\users\imichal4\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+c:\users\imichal4\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+c:\users\imichal4\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Iza\Desktop\Przegladarka Izabela Michalak\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Iza\Desktop\Przegladarka Izabela Michalak\Projekt\bin\Debug\Projekt.exe
+C:\Users\Iza\Desktop\Przegladarka Izabela Michalak\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Iza\Desktop\Przegladarka Izabela Michalak\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Iza\Desktop\Przegladarka Izabela Michalak\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\Iza\Desktop\Przegladarka Izabela Michalak\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Iza\Desktop\Przegladarka Izabela Michalak\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Iza\Desktop\Przegladarka Izabela Michalak\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Iza\Desktop\Przegladarka Izabela Michalak\Projekt\obj\Debug\Projekt.exe
+C:\Users\Iza\Desktop\Przegladarka Izabela Michalak\Projekt\obj\Debug\Projekt.pdb
